@@ -1,0 +1,49 @@
+body {
+  font-family: "Josefin Sans", sans-serif;
+  color: #565252;
+}
+.logo {
+  width: 120px;
+  height: auto;
+}
+.honeyComb {
+  margin: 0px 0px 0px 0px;
+  width: 170px;
+  height: 100px;
+}
+.container {
+  float: right;
+  padding: 70px 70px 20px 30px;
+  margin: 0px;
+  font-weight: bold;
+}
+.home {
+  margin: 20px;
+  text-decoration: none;
+  color: #565252;
+}
+.contact {
+  margin: 20px;
+  color: #565252;
+  text-decoration: none;
+  font-family: "Josefin Sans", sans-serif;
+}
+.why {
+  margin: 20px;
+  color: #565252;
+  text-decoration: none;
+}
+.info {
+  margin: 20px;
+  text-decoration: none;
+  color: #565252;
+}
+hr {
+  margin: 0px 40px;
+  height: 0px;
+  border: none;
+  border-top: 2px solid #565252;
+  box-shadow: 1px 2px;
+  height: 1px;
+  color: #565252;
+}
