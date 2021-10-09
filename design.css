@@ -49,7 +49,7 @@ hr {
   color: #565252;
 }
 .head {
-  text-align: center;
+  margin-left: 150px;
 }
 .cleanOpt {
   width: 400px;
@@ -101,4 +101,23 @@ hr {
 }
 .dropdown:hover .dropbtn {
   background-color: #d4d3d3;
+}
+
+.paragraph {
+  float: right;
+  margin-right: 100px;
+  width: 400px;
+  height: auto;
+  font-size: 17px;
+  margin-top: 50px;
+
+  line-height: 30px;
+}
+h3 {
+  margin-top: 50px;
+  margin-left: 180px;
+}
+.available {
+  font-size: 17px;
+  margin-left: 150px;
 }
